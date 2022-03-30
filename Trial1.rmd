@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Learning Git and R
 make sure to start a repo in github, clone it to R
 
+When cloning to R, make sure to put into the right project.
 
 ## R Markdown
 
