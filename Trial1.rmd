@@ -8,6 +8,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Learning Git and R
+make sure to start a repo in github, clone it to R
+
 
 ## R Markdown
 
